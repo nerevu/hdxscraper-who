@@ -14,13 +14,11 @@ import config
 from flask import Flask
 from flask.ext.sqlalchemy import SQLAlchemy
 
-__version__ = '0.6.0'
+__version__ = '0.6.1'
 
 __title__ = 'hdxscraper-who'
 __author__ = 'Reuben Cummings'
-__description__ = (
-    'Collector for the UN Human Development Report Office (HDRO) API')
-
+__description__ = 'WHO Global Health Observatory Data Collector'
 __email__ = 'reubano@gmail.com'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015 Reuben Cummings'

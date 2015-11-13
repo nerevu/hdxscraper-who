@@ -1,4 +1,4 @@
-## WHO Global Health Collector
+## WHO Global Health Observatory Data Collector
 
 [HDX](https://data.hdx.rwlabs.org/) collector for the [WHO Global Health Observatory Data](http://apps.who.int/gho/data/node.main.132?lang=en).
 
@@ -16,7 +16,7 @@ With hdxscraper-who, you can
 - Create CKAN datasets with externally generated CSV files
 - Update resources previously uploaded to CKAN with new metadata
 
-[View the live data](https://data.hdx.rwlabs.org/organization/undp-human-development-reports-office)
+[View the live data](https://data.hdx.rwlabs.org/organization/world-health-organization)
 
 ## Requirements
 
