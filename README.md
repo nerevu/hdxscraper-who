@@ -1,4 +1,4 @@
-## WHO Global Health Collector
+## WHO Global Health Observatory Data Collector
 
 [HDX](https://data.hdx.rwlabs.org/) collector for the [WHO Global Health Observatory Data](http://apps.who.int/gho/data/node.main.132?lang=en).
 
