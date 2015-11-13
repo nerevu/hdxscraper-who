@@ -1,6 +1,6 @@
 ## WHO Global Health Observatory Data Collector
 
-[HDX](https://data.hdx.rwlabs.org/) collector for the [WHO Global Health Observatory Data](http://apps.who.int/gho/data/node.main.132?lang=en).
+[HDX](https://data.hdx.rwlabs.org/) collector for [WHO Global Health Observatory Data](http://apps.who.int/gho/data/node.main.132?lang=en).
 
 ## Introduction
 
@@ -57,8 +57,8 @@ hdxscraper-who requires the following in order to run properly:
     cd tool
     source venv/bin/activate
     screen manage -m Scraper run
-    # Now press `Ctrl-a d`
 
+Now press `Ctrl-a d`
 The results will be stored in a SQLite database `scraperwiki.sqlite`.
 
 *view all available commands*
@@ -74,16 +74,6 @@ The results will be stored in a SQLite database `scraperwiki.sqlite`.
 *upload to staging site*
 
     manage upload -s
-
-## Update tables on [HDX](http://data.hdx.rwlabs.org/)/[CKAN](http://ckan.org/) with new metadata
-
-*update dataset on production site*
-
-    manage update
-
-*update dataset on staging site*
-
-    manage update -s
 
 ## Update tables on [HDX](http://data.hdx.rwlabs.org/)/[CKAN](http://ckan.org/) with new metadata
 
@@ -136,7 +126,7 @@ If you would like to create collector or scraper from scratch, check out [cookie
 - improve this readme
 - add comments to confusing parts of the code
 - write a "Getting Started" guide
-- write additional deployment instructions ([Heroku](http://heroku.com/), [AWS](http://aws.amazon.com/), [Digital Ocean](http://digitalocean.com/, [GAE](https://appengine.google.com/))
+- write additional deployment instructions ([Heroku](http://heroku.com/), [AWS](http://aws.amazon.com/), [Digital Ocean](http://digitalocean.com/), [GAE](https://appengine.google.com/))
 
 ### QA
 
