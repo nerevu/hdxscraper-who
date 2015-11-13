@@ -16,7 +16,7 @@ With hdxscraper-who, you can
 - Create CKAN datasets with externally generated CSV files
 - Update resources previously uploaded to CKAN with new metadata
 
-[View the live data](https://data.hdx.rwlabs.org/organization/undp-human-development-reports-office)
+[View the live data](https://data.hdx.rwlabs.org/organization/world-health-organization)
 
 ## Requirements
 
