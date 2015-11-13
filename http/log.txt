@@ -1,0 +1,32 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): apps.who.int
+DEBUG:requests.packages.urllib3.connectionpool:"GET /gho/athena/data/GHO/CC_1,CC_2,CC_3,CC_4,CC_5,CC_6,CC_7,CC_8.json?profile=simple&filter=COUNTRY:-;REGION:* HTTP/1.1" 200 None
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_dalys_per_100000_children_under_5_years`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_dalys_per_100000_children_under_5_years`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_deaths_per_100000_children_under_5_years`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_deaths_per_100000_children_under_5_years`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_dalys_000`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_dalys_000`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_dalys_000_in_children_under_5_years`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_dalys_000_in_children_under_5_years`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_dalys_per_100000_capita`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_dalys_per_100000_capita`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_deaths`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_deaths`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_deaths_000_in_children_under_5_years`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_deaths_000_in_children_under_5_years`.
+DEBUG:populate:Inserted 8 records into table `climate_change_attributable_deaths_per_100000_capita`.
+DEBUG:populate:Success! Inserted 8 records into table `climate_change_attributable_deaths_per_100000_capita`.
