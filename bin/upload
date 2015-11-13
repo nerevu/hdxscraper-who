@@ -13,7 +13,7 @@ else
 fi
 
 OID="world-health-organization"
-BASE="https://ds-ec2.scraperwiki.com/dghykmr/umkfikfub2ahqa2/cgi-bin/csv"
+BASE="https://ds-ec2.scraperwiki.com/n9fnudn/ru8txqwvxzia6b2/cgi-bin/csv"
 TSOURCE="World Health Organization"
 TAGS="Health, Climate change"
 METHODOLOGY="http://apps.who.int/gho/data/node.metadata"
@@ -23,7 +23,7 @@ echo "Uploading data to $URL..."
 {
   read
   while read -r line || [[ -n "$line" ]]; do
-    IFS='\t'
+    IFS=','
     ROW=($line)
 
     ckanny pk.create \
@@ -38,4 +38,4 @@ echo "Uploading data to $URL..."
       -r "$URL" \
       "$OID"
   done
-} < "datasets/tables.tsv"
+} < "datasets/tables.csv"
