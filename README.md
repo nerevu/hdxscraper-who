@@ -42,7 +42,7 @@ hdxscraper-who requires the following in order to run properly:
 *ScraperWiki Box*
 
     rm -rf tool
-    git clone https://github.com/reubano/hdxscraper-fao.git tool
+    git clone https://github.com/reubano/hdxscraper-who.git tool
     cd tool
     make setup
 
@@ -54,12 +54,10 @@ hdxscraper-who requires the following in order to run properly:
 
 *ScraperWiki Box*
 
-    cd tool
     source venv/bin/activate
     screen manage -m Scraper run
 
-Now press `Ctrl-a d`
-The results will be stored in a SQLite database `scraperwiki.sqlite`.
+Now press `Ctrl-a d`. The results will be stored in the file `scraperwiki.sqlite`.
 
 *view all available commands*
 
